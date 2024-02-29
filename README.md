@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Orbegoso Loayza</h1>
-<h3 align="center">A passionate Full Stack developer from Perú</h3>
+<h3 align="center">A passionate Full Stack developer from Perú </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosorbegoso&label=Profile%20views&color=0e75b6&style=flat" alt="carlosorbegoso" /> </p>
+
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=carlosorbegoso&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="carlosorbegoso" />
+<span width="20"> </span>
+
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosorbegoso&langs_count=8" alt="carlosorbegoso" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosorbegoso" alt="carlosorbegoso" /></a> </p>
 
@@ -40,4 +44,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SkyblueCarlos?"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SkyblueCarlos?" /></a><a href="https://ko-fi.com/carlosorbergosoloayza1017"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="carlosorbergosoloayza1017" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosorbegoso&show_icons=true&locale=en" alt="carlosorbegoso" /></p>
+
