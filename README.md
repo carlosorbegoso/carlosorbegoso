@@ -37,7 +37,7 @@
   "
 >
   <p>
-    - 🔭 I’m currently working at <a href="https://baufest.com/">Baufest</a>
+    - 🔭 I’m currently working at <a href="https://intercorpretail.pe">Intercop Retail</a>
   </p>
   <p>
     - 🌱 I’m currently learning **Spring Framework, Angular, Java, Python,
