@@ -37,7 +37,7 @@
   "
 >
   <p>
-    - 🔭 I’m currently working at <a href="https://intercorpretail.pe">Intercop Retail</a>
+    - 🔭 I’m currently working at <a href="https://www.tcs.com">Tata Consultancy Service</a>
   </p>
   <p>
     - 🌱 I’m currently learning **Spring Framework, Angular, Java, Python,
