@@ -10,6 +10,10 @@
 
 <h3 align="center">Backend Developer from Perú 🇵🇪 · Java · Quarkus · Kotlin</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carlosorbegoso&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <div align="center">
 
 🔭 Currently working at [Tata Consultancy Services](https://www.tcs.com)<br/>
@@ -27,13 +31,32 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Carlos__Tech" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://leetcode.com/carlosorbegoso" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/i201910263" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+</p>
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/carlosorbegoso/ngx-platform-utils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosorbegoso&repo=ngx-platform-utils&hide_border=true&theme=tokyonight" alt="ngx-platform-utils" />
+  </a>
+  <a href="https://github.com/carlosorbegoso/yape-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosorbegoso&repo=yape-hub&hide_border=true&theme=tokyonight" alt="yape-hub" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/carlosorbegoso/pay-transport-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosorbegoso&repo=pay-transport-api&hide_border=true&theme=tokyonight" alt="pay-transport-api" />
+  </a>
+  <a href="https://github.com/carlosorbegoso/grafana-alloy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosorbegoso&repo=grafana-alloy&hide_border=true&theme=tokyonight" alt="grafana-alloy" />
   </a>
 </p>
 
@@ -84,6 +107,31 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=carlosorbegoso&hide_border=true&theme=tokyonight"
     alt="carlosorbegoso's Streak"
+  />
+</div>
+
+<h3 align="center">🏆 Trophies</h3>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=carlosorbegoso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
+    alt="carlosorbegoso's Trophies"
+  />
+</div>
+
+<h3 align="center">📈 Activity Graph</h3>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=carlosorbegoso&hide_border=true&theme=tokyo-night"
+    alt="carlosorbegoso's Activity Graph"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/carlosorbegoso/carlosorbegoso/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
   />
 </div>
 
