@@ -70,6 +70,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/ngx-platform-utils">
+    <img src="https://img.shields.io/npm/v/ngx-platform-utils?style=for-the-badge&logo=npm&color=CB3837&label=ngx-platform-utils" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/ngx-platform-utils">
+    <img src="https://img.shields.io/npm/dm/ngx-platform-utils?style=for-the-badge&logo=npm&color=CB3837&label=downloads" alt="npm downloads" />
+  </a>
+</p>
+
 ---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
