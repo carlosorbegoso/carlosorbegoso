@@ -30,6 +30,8 @@
 
 </div>
 
+---
+
 <h3 align="center">🤝 Connect with me</h3>
 
 <p align="center">
@@ -46,6 +48,8 @@
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
 </p>
+
+---
 
 <h3 align="center">🚀 Featured Projects</h3>
 
@@ -65,6 +69,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosorbegoso&repo=grafana-alloy&hide_border=true&theme=tokyonight" alt="grafana-alloy" />
   </a>
 </p>
+
+---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -93,6 +99,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -132,23 +140,6 @@
   />
 </div>
 
-<h3 align="center">☕ Support</h3>
+---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/SkyblueCarlos" target="_blank">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="45"
-      width="180"
-      alt="Buy Me A Coffee"
-    />
-  </a>
-  <a href="https://ko-fi.com/carlosorbergosoloayza1017" target="_blank">
-    <img
-      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="45"
-      width="180"
-      alt="Ko-fi"
-    />
-  </a>
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/carlosorbegoso">carlosorbegoso</a></i></p>
