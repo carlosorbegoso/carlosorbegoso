@@ -11,6 +11,12 @@
 <h3 align="center">Backend Developer from Perú 🇵🇪 · Java · Quarkus · Kotlin</h3>
 
 <p align="center">
+  <a href="https://github.com/carlosorbegoso">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4695EB&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Quarkus+%7C+Kotlin;Microservices+%26+Cloud-Native;Observability+%26+API+Gateways" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=carlosorbegoso&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -107,15 +113,6 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=carlosorbegoso&hide_border=true&theme=tokyonight"
     alt="carlosorbegoso's Streak"
-  />
-</div>
-
-<h3 align="center">🏆 Trophies</h3>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=carlosorbegoso&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
-    alt="carlosorbegoso's Trophies"
   />
 </div>
 
