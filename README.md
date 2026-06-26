@@ -128,7 +128,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=carlosorbegoso&hide_border=true&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=carlosorbegoso&hide_border=true&theme=tokyonight"
     alt="carlosorbegoso's Streak"
   />
 </div>
@@ -143,10 +143,11 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/carlosorbegoso/carlosorbegoso/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosorbegoso/carlosorbegoso/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosorbegoso/carlosorbegoso/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/carlosorbegoso/carlosorbegoso/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
