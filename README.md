@@ -8,11 +8,11 @@
 
 <h1 align="center">Hi 👋, I'm Carlos Orbegoso Loayza</h1>
 
-<h3 align="center">Backend Developer from Perú 🇵🇪 · Java · Quarkus · Kotlin</h3>
+<h3 align="center">Backend Developer from Perú 🇵🇪 · Java · Quarkus · Spring</h3>
 
 <p align="center">
   <a href="https://github.com/carlosorbegoso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4695EB&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Quarkus+%7C+Kotlin;Microservices+%26+Cloud-Native;Observability+%26+API+Gateways" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4695EB&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Quarkus+%7C+Spring;Microservices+%26+Cloud-Native;Observability+%26+API+Gateways" alt="Typing SVG" />
   </a>
 </p>
 
@@ -85,9 +85,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
